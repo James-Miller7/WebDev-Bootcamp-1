@@ -1,0 +1,22 @@
+p {
+    color: #A4A9AD
+}
+body{
+    background-color: #39375B;
+}
+.Title{
+    color: #FADF7F;
+}
+#hobby1{
+    color: red;
+}
+
+#picture {
+    width: 30rem;
+    margin-left: 20rem;
+    margin-top: 10rem;
+    border-style: solid;
+    border-width: 10px;
+    border-color: aliceblue;
+    padding: 10px;
+}
